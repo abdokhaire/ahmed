@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Technical Lead
 
 # Organizations/Affiliations
 organizations:
-- name: PricewaterhouseCoopers
-  url: ""
+- name: PwC
+  url: "https://www.pwc.com/m1/en.html"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed machine learning, image recognission and web development.
