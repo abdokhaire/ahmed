@@ -14,27 +14,27 @@ subtitle = ""
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
-[[feature]]
-  icon = "salesforce"
-  icon_pack = "fab"
-  name = "Salesforce"
-  description = "90%"
+#[[feature]]
+#  icon = "salesforce"
+#  icon_pack = "fab"
+#  name = "Salesforce"
+#  description = "90%"
 
 [[feature]]
   icon = "python"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "python"
   description = "50%"
 
 [[feature]]
   icon = "js"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "JavaScript"
   description = "80%"
 
 [[feature]]
   icon = "github-alt"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "Open-source"
   description = "40%"
   
@@ -46,13 +46,13 @@ subtitle = ""
   
 [[feature]]
   icon = "windows"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "Azure"
   description = "40%"
 
 [[feature]]
   icon = "linux"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "linux"
   description = "50%"
 
